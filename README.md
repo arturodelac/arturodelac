@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arturodelac
-- 👀 I’m interested in art and computers.
+- 👀 I’m interested in learning full stack development!
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
