@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning full stack development!
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me arturodelac1@gmail.com
 
 <!---
 arturodelac/arturodelac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
